@@ -8,6 +8,6 @@ Natural Language Processing of Tweets from the Last 7 Days Using Python
 CS410: Text Information Systems
 University of Illinois at Urbana-Champaign
 
-Video Link to Walkthrough: 
+Video Link to Walkthrough: https://youtu.be/hGuiQOdHUFE
 
 Note: private API keys for Tweepy Twitter API withheld. If you would like to run this code on your own machine, please email davidmg4@illinois.edu
