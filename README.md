@@ -1,3 +1,13 @@
-# CourseProject
+# CS410 Course Project Documentation File
+## Sentiment Analysis of American States by Topic
+### by David Gutierrez
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+
+Individual team (NetID: davidmg4)
+Natural Language Processing of Tweets from the Last 7 Days Using Python
+CS410: Text Information Systems
+University of Illinois at Urbana-Champaign
+
+Video Link to Walkthrough: 
+
+Note: private API keys for Tweepy Twitter API withheld. If you would like to run this code on your own machine, please email davidmg4@illinois.edu
