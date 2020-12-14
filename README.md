@@ -10,4 +10,4 @@ University of Illinois at Urbana-Champaign
 
 Video Link to Walkthrough: https://youtu.be/hGuiQOdHUFE
 
-Note: private API keys for Tweepy Twitter API withheld. If you would like to run this code on your own machine, please email me at davidmg4@illinois.edu
+Note: private API keys for Tweepy Twitter API withheld. If you would like to run this code on your own machine, please email me at <netIDabove>@illinois.edu
